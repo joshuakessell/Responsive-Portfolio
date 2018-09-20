@@ -1,0 +1,27 @@
+#box{
+    border-color: black;
+    border-width: 0px;
+    border-bottom-width: 1px;
+    border-style: solid;
+    
+}
+
+
+#name {
+    float:left;
+    font-size: 18px;
+    background-color: darkcyan;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#links {
+    float: right;
+    text-align: center;
+    font-size: 12px;
+    padding:10px;
+    font-weight: bold;
+    background-color: white;
+}
